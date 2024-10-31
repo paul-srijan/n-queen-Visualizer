@@ -9,7 +9,8 @@ A visual tool to demonstrate the classic N-Queens problem using a backtracking a
 
 ## Demo
 
-![N-Queens Demo](demo/demo.mp4)
+<!-- ![N-Queens Demo](demo/demo.mp4) -->
+<p align="center"> <video src="demo/demo.mp4" width="500px"> </video></p>
 
 ## Features
 
