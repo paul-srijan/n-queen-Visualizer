@@ -2,7 +2,7 @@
 This repository is a simple N-Queens visualizer that you can use to demonstrate the steps of a backtracking algorithm in solving the problem. This implementation uses HTML, CSS, and JavaScript, with a focus on interactivity for students to follow along with each placement and backtracking step.
 Here’s a GitHub README template for the **N-Queens Problem Visualizer** project:
 
-```markdown
+
 # N-Queens Problem Visualizer
 
 A visual tool to demonstrate the classic N-Queens problem using a backtracking algorithm. This project helps students and developers understand the process of placing N queens on an N x N chessboard such that no two queens attack each other.
