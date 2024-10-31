@@ -11,7 +11,12 @@ A visual tool to demonstrate the classic N-Queens problem using a backtracking a
 
 <!-- ![N-Queens Demo](demo/demo.mp4) -->
 <p align="center"> <video src="demo/demo.mp4" width="500px"> </video></p>
-https://github.com/user-attachments/assets/2d8e25ab-7598-464e-b6ad-1d4c0fb23f59
+
+
+
+https://github.com/user-attachments/assets/cbdb3d0f-58e4-4d14-ad8b-35e4ea0e2d45
+
+
 ## Features
 
 - Interactive visualization of each step in the backtracking algorithm
